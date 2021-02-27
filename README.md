@@ -1,6 +1,11 @@
 # recovery
-
+# 本文档上传到
+https://github.com/Mr-UFO/recovery/blob/main/README.md
+短网址为
+http://dwz.date/esgh
 @20210227
+
+
 系统重装步骤：
 参考 http://www.wepe.com.cn/ubook/installwin810.html
 
