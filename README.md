@@ -1,5 +1,5 @@
-# recovery
-# 本文档上传到
+# 重装系统说明
+本文档上传到
 https://github.com/Mr-UFO/recovery/blob/main/README.md
 短网址为
 http://dwz.date/esgh
